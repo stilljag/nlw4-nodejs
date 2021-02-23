@@ -1,6 +1,13 @@
 # NLW 4
 
+<div align="center" style="margin-bottom: 20px;">
+<img src="./src/assets/logo.png" alt="" width="650" height="310"/>
+</div>
+<div align="center">
+
 ![NODEJS](https://img.shields.io/badge/NODEJS-orange) ![TYPESCRIPT](https://img.shields.io/badge/TYPESCRIPT-blue) [![The MIT License](https://img.shields.io/badge/LICENSE-MIT-green.svg?style=flat-square)](http://github.com/stilljag/nlw4-nodejs/blob/master/LICENSE.md)
+
+</div>
 
 ## - Trilha Node.js
 
@@ -19,11 +26,7 @@ $ yarn dev
 
 ```
 
-<hr>
-
-<div align="center" style="margin-bottom: 20px;">
-<img src="./src/assets/logo.png" alt="" width="650" height="310"/>
-</div>
+<br>
 
 ## Sobre
 
@@ -39,25 +42,17 @@ Esta aplicação foi desenvolvida durante ao <.nlw/> da [Rocketseat][rock]
 
 #### --> Rumo ao próximo nível
 
-<br>
-
 ### 📍 Dia 02 - 23/02/2021
 
 #### --> Banco de Dados
-
-<br>
 
 ### 📍 Dia 03 - 24/02/2021
 
 #### --> Testando a nossa aplicação
 
-<br>
-
 ### 📍 Dia 04 - 25/02/2021
 
 #### --> Envio de e-mail
-
-<br>
 
 ### 📍 Dia 05 - 26/02/2021
 
