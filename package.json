@@ -6,8 +6,7 @@
   "scripts": {
     "dev": "ts-node-dev --transpile-only --ignore-watch node_modules src/server.ts",
     "typeorm": "ts-node-dev node_modules/typeorm/cli.js",
-    "test": "NODE_ENV=test jest",
-    "posttest": "rm ./src/database/database.test.sqlite"
+    "test": "NODE_ENV=test jest -i"
   },
   "devDependencies": {
     "@types/express": "^4.17.11",
@@ -24,9 +23,11 @@
   },
   "dependencies": {
     "express": "^4.17.1",
+    "express-async-errors": "^3.1.1",
     "handlebars": "^4.7.7",
     "reflect-metadata": "^0.1.13",
     "sqlite3": "^5.0.2",
-    "typeorm": "^0.2.31"
+    "typeorm": "^0.2.31",
+    "yup": "^0.32.9"
   }
 }
