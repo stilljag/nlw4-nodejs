@@ -21,6 +21,12 @@ $ nlw4-nodejs/api
 # Instale as dependências
 $ yarn
 
+# Crie na raiz do projeto o arquivo .env
+  URL_MAIL=http://localhost:3333/answers
+
+# Execute as migrations
+$ yarn typeorm migration:run
+
 # Execute o app
 $ yarn dev
 
