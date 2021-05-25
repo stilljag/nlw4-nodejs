@@ -5,7 +5,7 @@
 </div>
 <div align="center">
 
-![NODEJS](https://img.shields.io/badge/NODEJS-orange) ![TYPESCRIPT](https://img.shields.io/badge/TYPESCRIPT-blue) [![The MIT License](https://img.shields.io/badge/LICENSE-MIT-green.svg?style=flat-square)](http://github.com/stilljag/nlw4-nodejs/blob/master/LICENSE.md)
+![NODEJS](https://img.shields.io/badge/NODEJS-orange) ![TYPESCRIPT](https://img.shields.io/badge/TYPESCRIPT-blue) [![The MIT License](https://img.shields.io/badge/LICENSE-MIT-green.svg?style=flat-square)](http://github.com/william-ribeiro/nlw4-nodejs/blob/master/LICENSE.md)
 
 </div>
 
@@ -13,7 +13,7 @@
 
 ```bash
 # Clone o repositório
-$ git clone https://github.com/stilljag/nlw4-nodejs.git
+$ git clone https://github.com/william-ribeiro/nlw4-nodejs.git
 
 # Acesse o diretório.
 $ nlw4-nodejs/api
@@ -42,7 +42,7 @@ Esta aplicação foi desenvolvida durante ao <.nlw/> da [Rocketseat][rock]
 
 ## Desenvolvimento
 
-![VERSION](https://img.shields.io/badge/VERSION.1.0-blue) ![GitHub language count](https://img.shields.io/github/languages/count/stilljag/nlw4-nodejs?style=flat-square) ![GitHub last commit](https://img.shields.io/github/last-commit/stilljag/nlw4-nodejs?style=flat-square)
+![VERSION](https://img.shields.io/badge/VERSION.1.0-blue) ![GitHub language count](https://img.shields.io/github/languages/count/william-ribeiro/nlw4-nodejs?style=flat-square) ![GitHub last commit](https://img.shields.io/github/last-commit/william-ribeiro/nlw4-nodejs?style=flat-square)
 
 ### 📍 Dia 01 - 22/02/2021
 
@@ -68,7 +68,7 @@ Esta aplicação foi desenvolvida durante ao <.nlw/> da [Rocketseat][rock]
 
 ## Contribuição
 
-1. Faça o _fork_ do projeto (<https://github.com/stilljag/nlw4-nodejs/fork>)
+1. Faça o _fork_ do projeto (<https://github.com/william-ribeiro/nlw4-nodejs/fork>)
 2. Crie uma _branch_ para sua modificação (`git checkout -b feature/fooBar`)
 3. Faça o _commit_ (`git commit -am 'Add some fooBar'`)
 4. _Push_ (`git push origin feature/fooBar`)
